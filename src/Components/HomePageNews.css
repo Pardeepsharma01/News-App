@@ -1,0 +1,42 @@
+.mycard {
+  border-radius: 10px;
+  /* border: 5px solid yellow; */
+  margin: auto;
+  width: 620px !important;
+  height: 100vh;
+  /* overflow: auto; */
+  background-color: #fff2c5, #e0f1ff;
+  color: #111111;
+  font-size: larger;
+  transition: box-shadow 2s, transform 2s;
+}
+
+.mycard img {
+  /* border: 2px solid green; */
+  margin-top: 2rem;
+  text-align: center;
+  height: 19rem;
+
+  border-radius: 10px;
+}
+.card-body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.button-class {
+  background-color: black !important;
+  color: white !important;
+  width: 120px;
+}
+@media screen and (max-width: 989px) {
+  .mycard {
+    width: 22rem !important;
+    height: 32rem !important;
+    /* height: 22rem !important; */
+    /* border: 1px solid blue; */
+  }
+  .mycard img {
+    height: 15rem;
+    width: 20rem;
+  }
+}

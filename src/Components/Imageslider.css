@@ -1,0 +1,32 @@
+.image {
+  /* max-width: 80%; */
+  /* border: 2px solid blue; */
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.image-container {
+  position: relative;
+  display: inline-block;
+}
+
+.text-container {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.7
+  ); /* Optional background color for better text readability */
+  padding: 10px; /* Adjust padding as needed */
+  width: 100%;
+}
+
+.text {
+  color: #fff; /* Text color */
+  margin: 0;
+}

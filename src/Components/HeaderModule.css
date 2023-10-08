@@ -1,0 +1,59 @@
+.sticky-nav {
+    position: sticky !important;
+    
+    z-index: 1;
+    
+    top: 0;
+  }
+  
+  .navbar-toggler-icon {
+    color: white !important; 
+    border: 2px solid red;
+  }
+.navbar {
+  background-color: black;
+}
+
+.navbar a {
+  color: white !important; 
+}
+
+.custom-dropdown-toggle {
+  width: 120px; 
+}
+
+.dropdown-toggle {
+  background-color: black !important;
+  color: white !important;
+}
+
+.dropdown-item {
+  background-color: black !important;
+  color: white !important;
+}
+
+/* Hover effect for links */
+.navbar a:hover {
+  color: rgb(253, 253, 0) !important; /* Change text color to yellow on hover */
+}
+
+/* Hover effect for dropdown items */
+.dropdown-item:hover {
+  background-color: yellow ; 
+  color: black !important; 
+}
+
+
+.nav_head{
+  background-color: #272829;
+  
+}
+.Hover_over:hover{
+  border-bottom: 3px solid yellow;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+  color: rgb(48,48,185);
+}
+
+  
