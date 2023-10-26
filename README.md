@@ -46,7 +46,16 @@ Custom CSS is employed to enhance the app's aesthetics and ensure a visually app
 
 The News and Weather App is designed to keep users informed and engaged by providing access to news from around the world, categorized by their interests and preferences. Additionally, the integrated weather feature offers real-time weather updates, making it a one-stop destination for both news and weather information. Whether users want to catch up on the latest headlines or plan their day based on weather conditions, this app has them covered.
 
+# Some Screenshots of My Project -: 
 
+![Screenshot (21)](https://github.com/Pardeepsharma01/News-App/assets/122151205/912ccfe2-26bc-483c-95cd-6139ad2c1fc5)
 
+![Screenshot (22)](https://github.com/Pardeepsharma01/News-App/assets/122151205/4d7adc80-68c1-403c-9f0b-ec18c4a6dc8c)
 
+![Screenshot (23)](https://github.com/Pardeepsharma01/News-App/assets/122151205/aa674bf1-0fab-4237-9964-28baf9e29c14)
 
+![Screenshot (24)](https://github.com/Pardeepsharma01/News-App/assets/122151205/2d473b13-5811-4936-b60d-d5d50ca688d7)
+
+![Screenshot (25)](https://github.com/Pardeepsharma01/News-App/assets/122151205/163e3229-4c8b-4f5c-887b-471430c21757)
+
+![Screenshot (26)](https://github.com/Pardeepsharma01/News-App/assets/122151205/bacda92e-a74b-4356-911c-447a2669c258)
