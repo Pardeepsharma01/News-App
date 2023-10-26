@@ -34,10 +34,10 @@ const HomepageNews = (props) => {
               />
               <div className="card-body">
                 <h3 className="card-title fw-bold">
-                  {element.title.slice(0, 100)}
+                  {element.title && element.title.slice(0, 100)}
                 </h3>
                 <p className="card-text fw-light">
-                  {element.description.slice(0, 100)}
+                  {element.description && element.description.slice(0, 100)}
                 </p>
                 {/* <a href={element.url} >Read More</a> */}
                 <button type="button" class="btn btn-warning button-class">

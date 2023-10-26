@@ -35,15 +35,8 @@ const HomePage = () => {
           </div>
         </div>
       </div>
-    </div>
-
-    
-<footer>
-<div className="center">
-    Copyright &copy; Pardeep Sharma. All rights reserved!
-    <p>Yamuna Nagar, Haryana</p>
-</div>
-</footer>
+    </div> 
+   
 </>
     
   );
