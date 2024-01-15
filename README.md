@@ -1,6 +1,6 @@
 # News Application
 
-The News and Weather App is a feature-rich web application developed using React.js, Redux, React-Bootstrap, npm, and CSS. This dynamic and user-friendly app provides a seamless experience for users to stay updated on the latest news and check the weather in their area. Here's an overview of its key features:
+The News App is a feature-rich web application developed using React.js, Redux, React-Bootstrap, npm, and CSS. This dynamic and user-friendly app provides a seamless experience for users to stay updated on the latest news and check the weather in their area. Here's an overview of its key features:
 # Features:
 
  - <h2>Homepage with News Cards:</h2>
